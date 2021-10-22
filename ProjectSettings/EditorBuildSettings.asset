@@ -6,6 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Aura/Scenes/AuraGameScene.unity
-    guid: 566d7464d0c502a48a782dcc138f4dc6
-  m_configObjects: {}
+    path: Assets/Aura/Scenes/pelvisTest.unity
+    guid: 2ea54a7eecbcca545985dccb61208798
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e63dcde40a6ed9b45905849641e77709, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c61823ae51c197e4c92477cb35a9315e, type: 2}
